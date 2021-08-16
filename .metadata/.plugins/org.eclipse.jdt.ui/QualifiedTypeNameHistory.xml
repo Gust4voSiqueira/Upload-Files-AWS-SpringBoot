@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="com.amazonaws.auth.AWSCredentials"/>
+    <fullyQualifiedTypeName name="com.amazonaws.auth.BasicAWSCredentials"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.s3.AmazonS3ClientBuilder"/>
+    <fullyQualifiedTypeName name="com.amazonaws.auth.AWSStaticCredentialsProvider"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.s3.AmazonS3"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.s3.model.PutObjectRequest"/>
+    <fullyQualifiedTypeName name="lombok.extern.slf4j.Slf4j"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.s3.model.S3Object"/>
+    <fullyQualifiedTypeName name="jdk.jpackage.internal.IOUtils"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.s3.model.S3ObjectInputStream"/>
+    <fullyQualifiedTypeName name="com.amazonaws.util.IOUtils"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="com.burgerLets.service.StorageService"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.web.multipart.MultipartFile"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.xray.model.Http"/>
+    <fullyQualifiedTypeName name="org.apache.http.HttpStatus"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.core.io.ByteArrayResource"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
+    <fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.DeleteMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
+    <fullyQualifiedTypeName name="org.apache.logging.log4j.util.Strings"/>
+    <fullyQualifiedTypeName name="jdk.internal.joptsimple.internal.Strings"/>
+</qualifiedTypeNameHistroy>

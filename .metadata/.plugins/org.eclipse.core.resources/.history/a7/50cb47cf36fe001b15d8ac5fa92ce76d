@@ -1,0 +1,5 @@
+package com.burgerLets.controller;
+
+public class StorageController {
+
+}

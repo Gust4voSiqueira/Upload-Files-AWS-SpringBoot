@@ -1,0 +1,26 @@
+cloud:
+  aws:
+    credentials:
+      access-key: AKIAR5AI7Y674BYP4XIJ
+      secret-key: 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
+    region:
+      static: us-east-2
+    stack:
+      auto: false
+
+application:
+  bucket:
+    name: imagesburgerlets
+   
+  
+spring:
+  serverlet:
+    multipart:
+      enabled: true
+      file-size-threshold: 2MB
+      max-file-size: 5MB
+      max-request-size: 10MB
+  
+server:  port: 9090
+
+      

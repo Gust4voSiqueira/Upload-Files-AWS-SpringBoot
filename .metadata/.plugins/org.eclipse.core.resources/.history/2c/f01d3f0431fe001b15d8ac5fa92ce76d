@@ -1,0 +1,5 @@
+package com.burgerLets.service;
+
+public class StorageService {
+
+}

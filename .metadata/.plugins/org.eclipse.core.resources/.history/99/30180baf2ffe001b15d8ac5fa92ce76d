@@ -1,0 +1,5 @@
+package com.burgerLets.config;
+
+public class StorageConfig {
+
+}
